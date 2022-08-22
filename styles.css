@@ -72,6 +72,10 @@ p {
     position: relative;
 }
 
+h4 {
+    color: hsl(234, 12%, 34%);
+}
+
 .cyan {
     border-top: 5px solid hsl(180, 62%, 55%);
 }
